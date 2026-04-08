@@ -80,19 +80,6 @@ Sou um entusiasta da cultura **Maker** e Engenheiro em formação pela **FIAP**.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviBiaggioli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBiaggioli&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviBiaggioli&theme=tokyonight" />
-</div>
-
----
-
 <div align="center">
   <sub>"Construo soluções técnicas, formo pessoas e crio narrativas visuais."</sub>
 </div>
