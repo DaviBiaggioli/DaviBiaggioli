@@ -24,8 +24,8 @@ Sou um entusiasta da cultura **Maker** e Engenheiro em formação pela **FIAP**.
 
 - 💻 **Backend:** Especialista em ecossistema .NET (C#, ASP.NET Core 8, Razor) e integrações Cloud com AWS.
 - 🤖 **Maker & Hardware:** Experiência em IoT, sistemas embarcados e eletrônica aplicada.
-- 🎭 **Comunicação:** Background sólido em arte-educação e palhaçaria, o que reflete na minha capacidade de traduzir problemas complexos em soluções simples.
-
+- 🎭 **Educação:** Educador por vocação, vivência em diversos espaços de ensino como a FiapSchool
+  
 ---
 
 ### 🚀 Projetos em Destaque
